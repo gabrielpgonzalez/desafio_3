@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    color: white;
+    font-family: 'raleway', sans-serif;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    gap: 5rem;
+}
+
+.header {
+    background-color: #000000;
+    text-align: center;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    padding: 1%;
+    font-size: 1.5rem;
+}
+
+.image-bg {
+    background-color: black;
+}
+
+.iguana-big {
+    width: 100%;
+    height: auto;
+}
+
+.main {
+    background-color: #000000;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+    width: 100%;
+    margin: 0px;
+    display: flex;
+    gap: 10px;
+}
+
+.image-main {
+    width: 35%;
+    height: auto;
+    padding: 5%;
+}
+
+.container {
+    width: 40%;
+    padding: 20px;
+    padding-top: 150px;
+}
+
+.container p {
+    text-align: left;
+    padding-left: 50px;
+    padding-top: 40px;
+    padding-right: 50px;
+}
+
+.caracteristicas {
+    background-color: #1E1A13;
+    padding:  1%;
+    text-align: center;
+    font-size: 1rem;
+    margin: 0px;
+}
+
+.favicon {
+    display: flex;
+    gap: 30px;
+    justify-content: space-evenly;
+    padding: 5%;
+    font-size: 1.5rem;
+}
+
+.leyenda{
+    padding-top: 20px;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+}
+.boxes {
+    display: flex;
+    background-color: #000000;
+    padding: 1%;
+    max-width: 100%;
+    justify-content: space-evenly;
+}
+
+.i-pictures {
+    width: 80%;
+}
+
+footer {
+    background-color: #1E1A13;
+    text-align: center;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+    padding: 1%;
+}
